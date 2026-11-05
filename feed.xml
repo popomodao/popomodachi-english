@@ -5,8 +5,8 @@
   <link>https://popomodao.github.io/popomodachi-english/</link>
   <atom:link href="https://popomodao.github.io/popomodachi-english/feed.xml" rel="self" type="application/rss+xml"/>
   <language>ja</language>
-  <description>2026年9月、アメリカ・イリノイ州のポポー村（Paw Paw）で開かれたポポーフェスティバル。そこで実際に聞いた英語の文を、英語→日本語→英語の順に流します。ポポーの育て方、実の味、フェスの運営まで。聞き流すだけで、ポポーの英語に耳が慣れていきます。広島県神石高原町のポポもがお届けします。</description>
-  <itunes:summary>2026年9月、アメリカ・イリノイ州のポポー村（Paw Paw）で開かれたポポーフェスティバル。そこで実際に聞いた英語の文を、英語→日本語→英語の順に流します。ポポーの育て方、実の味、フェスの運営まで。聞き流すだけで、ポポーの英語に耳が慣れていきます。広島県神石高原町のポポもがお届けします。</itunes:summary>
+  <description>2026年9月、アメリカ・イリノイ州のポポー村（Paw Paw）で開かれたポポーフェスティバル。そこで実際に聞いた英語の文を、英語→日本語→英語の順に流します。ポポーの育て方、実の味、フェスの運営まで。聞き流すだけで、ポポーの英語に耳が慣れていきます。広島県神石高原町のポポもがお届けします。（読み上げ音声：VOICEVOX:春日部つむぎ／Kokoro-82M）</description>
+  <itunes:summary>2026年9月、アメリカ・イリノイ州のポポー村（Paw Paw）で開かれたポポーフェスティバル。そこで実際に聞いた英語の文を、英語→日本語→英語の順に流します。ポポーの育て方、実の味、フェスの運営まで。聞き流すだけで、ポポーの英語に耳が慣れていきます。広島県神石高原町のポポもがお届けします。（読み上げ音声：VOICEVOX:春日部つむぎ／Kokoro-82M）</itunes:summary>
   <itunes:subtitle>アメリカのポポー村で聞いた英語</itunes:subtitle>
   <itunes:author>ポポもだち</itunes:author>
   <itunes:owner><itunes:name>ポポもだち</itunes:name><itunes:email>popomodao@gmail.com</itunes:email></itunes:owner>
@@ -101,7 +101,7 @@
 79. That&#x27;s basically the same tree but multiple trunks.　それは基本的に同じ木で、幹が何本もある状態です。
 80. Let&#x27;s see who&#x27;s in charge.　誰が担当か見てみよう。
 
-読み上げ音声：Kokoro-82M（Apache-2.0）</description>
+読み上げ音声：VOICEVOX:春日部つむぎ（日本語）／Kokoro-82M（英語・Apache-2.0）</description>
    <itunes:summary>アメリカのポポー村で聞いた英語の文を80文。英語→日本語→英語の順に流れます。
 
 1. I like to get cultivar fruit from orchards for seeds.　種を取るなら、品種の木がそろった果樹園の実がいい。
@@ -185,11 +185,11 @@
 79. That&#x27;s basically the same tree but multiple trunks.　それは基本的に同じ木で、幹が何本もある状態です。
 80. Let&#x27;s see who&#x27;s in charge.　誰が担当か見てみよう。
 
-読み上げ音声：Kokoro-82M（Apache-2.0）</itunes:summary>
-   <enclosure url="https://popomodao.github.io/popomodachi-english/ep01.m4a" length="7597047" type="audio/x-m4a"/>
-   <guid isPermaLink="false">popomodachi-english-ep01</guid>
+読み上げ音声：VOICEVOX:春日部つむぎ（日本語）／Kokoro-82M（英語・Apache-2.0）</itunes:summary>
+   <enclosure url="https://popomodao.github.io/popomodachi-english/ep01-f1c265c1.m4a" length="7068480" type="audio/x-m4a"/>
+   <guid isPermaLink="false">popomodachi-english-ep01-f1c265c1</guid>
    <pubDate>Thu, 05 Nov 2026 09:01:00 +0900</pubDate>
-   <itunes:duration>19:24</itunes:duration>
+   <itunes:duration>18:22</itunes:duration>
    <itunes:episode>1</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
    <itunes:explicit>false</itunes:explicit>
@@ -279,7 +279,7 @@
 159. That&#x27;s a nice little haul for this morning.　今朝はなかなかの収穫ですね。
 160. You have to be very careful when applying herbicide around pawpaw trees.　ポポーの木のまわりで除草剤を使うときはとても注意が必要です。
 
-読み上げ音声：Kokoro-82M（Apache-2.0）</description>
+読み上げ音声：VOICEVOX:春日部つむぎ（日本語）／Kokoro-82M（英語・Apache-2.0）</description>
    <itunes:summary>アメリカのポポー村で聞いた英語の文を80文。英語→日本語→英語の順に流れます。
 
 81. Fundraising, I have no updates.　資金集めについては、新しい報告はありません。
@@ -363,11 +363,11 @@
 159. That&#x27;s a nice little haul for this morning.　今朝はなかなかの収穫ですね。
 160. You have to be very careful when applying herbicide around pawpaw trees.　ポポーの木のまわりで除草剤を使うときはとても注意が必要です。
 
-読み上げ音声：Kokoro-82M（Apache-2.0）</itunes:summary>
-   <enclosure url="https://popomodao.github.io/popomodachi-english/ep02.m4a" length="8108306" type="audio/x-m4a"/>
-   <guid isPermaLink="false">popomodachi-english-ep02</guid>
+読み上げ音声：VOICEVOX:春日部つむぎ（日本語）／Kokoro-82M（英語・Apache-2.0）</itunes:summary>
+   <enclosure url="https://popomodao.github.io/popomodachi-english/ep02-97e45bfa.m4a" length="7624659" type="audio/x-m4a"/>
+   <guid isPermaLink="false">popomodachi-english-ep02-97e45bfa</guid>
    <pubDate>Thu, 05 Nov 2026 09:02:00 +0900</pubDate>
-   <itunes:duration>20:25</itunes:duration>
+   <itunes:duration>19:28</itunes:duration>
    <itunes:episode>2</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
    <itunes:explicit>false</itunes:explicit>
@@ -457,7 +457,7 @@
 239. Everything is straight species, no nativars, no cultivars.　全部原種で、在来種の改良品種も園芸品種もありません。
 240. And who knows how much beer we&#x27;ll have left.　それにビールがどれだけ残っているかも分かりませんし。
 
-読み上げ音声：Kokoro-82M（Apache-2.0）</description>
+読み上げ音声：VOICEVOX:春日部つむぎ（日本語）／Kokoro-82M（英語・Apache-2.0）</description>
    <itunes:summary>アメリカのポポー村で聞いた英語の文を80文。英語→日本語→英語の順に流れます。
 
 161. I do have lots of freezer space if you ever want to stock up.　ストックしたいときは、うちの冷凍庫にたっぷり空きがありますよ。
@@ -541,11 +541,11 @@
 239. Everything is straight species, no nativars, no cultivars.　全部原種で、在来種の改良品種も園芸品種もありません。
 240. And who knows how much beer we&#x27;ll have left.　それにビールがどれだけ残っているかも分かりませんし。
 
-読み上げ音声：Kokoro-82M（Apache-2.0）</itunes:summary>
-   <enclosure url="https://popomodao.github.io/popomodachi-english/ep03.m4a" length="8408464" type="audio/x-m4a"/>
-   <guid isPermaLink="false">popomodachi-english-ep03</guid>
+読み上げ音声：VOICEVOX:春日部つむぎ（日本語）／Kokoro-82M（英語・Apache-2.0）</itunes:summary>
+   <enclosure url="https://popomodao.github.io/popomodachi-english/ep03-7d604057.m4a" length="7907589" type="audio/x-m4a"/>
+   <guid isPermaLink="false">popomodachi-english-ep03-7d604057</guid>
    <pubDate>Thu, 05 Nov 2026 09:03:00 +0900</pubDate>
-   <itunes:duration>21:02</itunes:duration>
+   <itunes:duration>20:02</itunes:duration>
    <itunes:episode>3</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
    <itunes:explicit>false</itunes:explicit>
@@ -635,7 +635,7 @@
 319. Get an association going, maybe a newsletter, something like that.　協会を立ち上げて、会報を出すとか、そういうことを。
 320. We cut a lot of our crops short; number one, it promotes root growth.　多くの苗を短く刈ります。第一に、根の成長を促すからです。
 
-読み上げ音声：Kokoro-82M（Apache-2.0）</description>
+読み上げ音声：VOICEVOX:春日部つむぎ（日本語）／Kokoro-82M（英語・Apache-2.0）</description>
    <itunes:summary>アメリカのポポー村で聞いた英語の文を80文。英語→日本語→英語の順に流れます。
 
 241. I could see having both tables near the entrance on each side.　入口の両側にテーブルを1つずつ置くのがいいと思います。
@@ -719,11 +719,11 @@
 319. Get an association going, maybe a newsletter, something like that.　協会を立ち上げて、会報を出すとか、そういうことを。
 320. We cut a lot of our crops short; number one, it promotes root growth.　多くの苗を短く刈ります。第一に、根の成長を促すからです。
 
-読み上げ音声：Kokoro-82M（Apache-2.0）</itunes:summary>
-   <enclosure url="https://popomodao.github.io/popomodachi-english/ep04.m4a" length="8357482" type="audio/x-m4a"/>
-   <guid isPermaLink="false">popomodachi-english-ep04</guid>
+読み上げ音声：VOICEVOX:春日部つむぎ（日本語）／Kokoro-82M（英語・Apache-2.0）</itunes:summary>
+   <enclosure url="https://popomodao.github.io/popomodachi-english/ep04-3389709c.m4a" length="7868433" type="audio/x-m4a"/>
+   <guid isPermaLink="false">popomodachi-english-ep04-3389709c</guid>
    <pubDate>Thu, 05 Nov 2026 09:04:00 +0900</pubDate>
-   <itunes:duration>20:56</itunes:duration>
+   <itunes:duration>19:57</itunes:duration>
    <itunes:episode>4</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
    <itunes:explicit>false</itunes:explicit>
@@ -813,7 +813,7 @@
 399. Yeah, get there early. You&#x27;ll drive on.　うん、早めに行きなよ。そのまま車で入れるから。
 400. We are funded by donations, as is Popomo.　私たちもポポもと同じく、寄付で運営されています。
 
-読み上げ音声：Kokoro-82M（Apache-2.0）</description>
+読み上げ音声：VOICEVOX:春日部つむぎ（日本語）／Kokoro-82M（英語・Apache-2.0）</description>
    <itunes:summary>アメリカのポポー村で聞いた英語の文を80文。英語→日本語→英語の順に流れます。
 
 321. The texture, is it pleasant, smooth, grainy, firm, stringy?　食感は心地よいか、なめらかか、ざらざらか、しっかりか、筋っぽいか。
@@ -897,11 +897,11 @@
 399. Yeah, get there early. You&#x27;ll drive on.　うん、早めに行きなよ。そのまま車で入れるから。
 400. We are funded by donations, as is Popomo.　私たちもポポもと同じく、寄付で運営されています。
 
-読み上げ音声：Kokoro-82M（Apache-2.0）</itunes:summary>
-   <enclosure url="https://popomodao.github.io/popomodachi-english/ep05.m4a" length="8590846" type="audio/x-m4a"/>
-   <guid isPermaLink="false">popomodachi-english-ep05</guid>
+読み上げ音声：VOICEVOX:春日部つむぎ（日本語）／Kokoro-82M（英語・Apache-2.0）</itunes:summary>
+   <enclosure url="https://popomodao.github.io/popomodachi-english/ep05-3fb2a5e0.m4a" length="8176544" type="audio/x-m4a"/>
+   <guid isPermaLink="false">popomodachi-english-ep05-3fb2a5e0</guid>
    <pubDate>Thu, 05 Nov 2026 09:05:00 +0900</pubDate>
-   <itunes:duration>21:24</itunes:duration>
+   <itunes:duration>20:34</itunes:duration>
    <itunes:episode>5</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
    <itunes:explicit>false</itunes:explicit>
@@ -991,7 +991,7 @@
 479. When she first contacted me, I thought it was a scam.　彼女が最初に連絡してきたとき、詐欺だと思いました。
 480. We&#x27;ve got the mayor of Paw Paw, Illinois. Come on down!　イリノイ州ポーポー町の町長です。どうぞこちらへ！
 
-読み上げ音声：Kokoro-82M（Apache-2.0）</description>
+読み上げ音声：VOICEVOX:春日部つむぎ（日本語）／Kokoro-82M（英語・Apache-2.0）</description>
    <itunes:summary>アメリカのポポー村で聞いた英語の文を80文。英語→日本語→英語の順に流れます。
 
 401. So you can take that and you&#x27;re already three years ahead.　だからそれを使えば、もう3年先を行っていることになる。
@@ -1075,11 +1075,11 @@
 479. When she first contacted me, I thought it was a scam.　彼女が最初に連絡してきたとき、詐欺だと思いました。
 480. We&#x27;ve got the mayor of Paw Paw, Illinois. Come on down!　イリノイ州ポーポー町の町長です。どうぞこちらへ！
 
-読み上げ音声：Kokoro-82M（Apache-2.0）</itunes:summary>
-   <enclosure url="https://popomodao.github.io/popomodachi-english/ep06.m4a" length="8988618" type="audio/x-m4a"/>
-   <guid isPermaLink="false">popomodachi-english-ep06</guid>
+読み上げ音声：VOICEVOX:春日部つむぎ（日本語）／Kokoro-82M（英語・Apache-2.0）</itunes:summary>
+   <enclosure url="https://popomodao.github.io/popomodachi-english/ep06-d8136128.m4a" length="8519900" type="audio/x-m4a"/>
+   <guid isPermaLink="false">popomodachi-english-ep06-d8136128</guid>
    <pubDate>Thu, 05 Nov 2026 09:06:00 +0900</pubDate>
-   <itunes:duration>22:08</itunes:duration>
+   <itunes:duration>21:13</itunes:duration>
    <itunes:episode>6</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
    <itunes:explicit>false</itunes:explicit>
@@ -1169,7 +1169,7 @@
 559. You want them in a ziplock bag with a little bit of moisture.　種は少し湿り気のあるジップ付きの袋に入れておくといいよ。
 560. I give it five, but I&#x27;m biased because I see them in the wild.　5点にしますが、野生のを見ているのでひいき目です。
 
-読み上げ音声：Kokoro-82M（Apache-2.0）</description>
+読み上げ音声：VOICEVOX:春日部つむぎ（日本語）／Kokoro-82M（英語・Apache-2.0）</description>
    <itunes:summary>アメリカのポポー村で聞いた英語の文を80文。英語→日本語→英語の順に流れます。
 
 481. You can order a piece of dormant scion wood.　休眠中の穂木を注文することもできます。
@@ -1253,11 +1253,11 @@
 559. You want them in a ziplock bag with a little bit of moisture.　種は少し湿り気のあるジップ付きの袋に入れておくといいよ。
 560. I give it five, but I&#x27;m biased because I see them in the wild.　5点にしますが、野生のを見ているのでひいき目です。
 
-読み上げ音声：Kokoro-82M（Apache-2.0）</itunes:summary>
-   <enclosure url="https://popomodao.github.io/popomodachi-english/ep07.m4a" length="8773039" type="audio/x-m4a"/>
-   <guid isPermaLink="false">popomodachi-english-ep07</guid>
+読み上げ音声：VOICEVOX:春日部つむぎ（日本語）／Kokoro-82M（英語・Apache-2.0）</itunes:summary>
+   <enclosure url="https://popomodao.github.io/popomodachi-english/ep07-e608a384.m4a" length="8283367" type="audio/x-m4a"/>
+   <guid isPermaLink="false">popomodachi-english-ep07-e608a384</guid>
    <pubDate>Thu, 05 Nov 2026 09:07:00 +0900</pubDate>
-   <itunes:duration>21:45</itunes:duration>
+   <itunes:duration>20:46</itunes:duration>
    <itunes:episode>7</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
    <itunes:explicit>false</itunes:explicit>
@@ -1347,7 +1347,7 @@
 639. He&#x27;ll be at our festival; he makes a pawpaw ice cream and other stuff.　彼はうちのフェスにも来ます。ポポーアイスなどを作っています。
 640. We&#x27;ll see you tomorrow bright and early.　じゃあ明日の朝早くにね。
 
-読み上げ音声：Kokoro-82M（Apache-2.0）</description>
+読み上げ音声：VOICEVOX:春日部つむぎ（日本語）／Kokoro-82M（英語・Apache-2.0）</description>
    <itunes:summary>アメリカのポポー村で聞いた英語の文を80文。英語→日本語→英語の順に流れます。
 
 561. There&#x27;s going to be lines going into them.　そこには人の列ができるだろうね。
@@ -1431,11 +1431,11 @@
 639. He&#x27;ll be at our festival; he makes a pawpaw ice cream and other stuff.　彼はうちのフェスにも来ます。ポポーアイスなどを作っています。
 640. We&#x27;ll see you tomorrow bright and early.　じゃあ明日の朝早くにね。
 
-読み上げ音声：Kokoro-82M（Apache-2.0）</itunes:summary>
-   <enclosure url="https://popomodao.github.io/popomodachi-english/ep08.m4a" length="8370620" type="audio/x-m4a"/>
-   <guid isPermaLink="false">popomodachi-english-ep08</guid>
+読み上げ音声：VOICEVOX:春日部つむぎ（日本語）／Kokoro-82M（英語・Apache-2.0）</itunes:summary>
+   <enclosure url="https://popomodao.github.io/popomodachi-english/ep08-7cab4ff6.m4a" length="7858174" type="audio/x-m4a"/>
+   <guid isPermaLink="false">popomodachi-english-ep08-7cab4ff6</guid>
    <pubDate>Thu, 05 Nov 2026 09:08:00 +0900</pubDate>
-   <itunes:duration>20:57</itunes:duration>
+   <itunes:duration>19:56</itunes:duration>
    <itunes:episode>8</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
    <itunes:explicit>false</itunes:explicit>
@@ -1478,7 +1478,7 @@
 672. This might be the most Midwestern intersection.　ここは一番中西部らしい交差点かもね。
 673. Midwestern hospitality is a thing.　中西部のおもてなしっていうのもあるんだよ。
 
-読み上げ音声：Kokoro-82M（Apache-2.0）</description>
+読み上げ音声：VOICEVOX:春日部つむぎ（日本語）／Kokoro-82M（英語・Apache-2.0）</description>
    <itunes:summary>アメリカのポポー村で聞いた英語の文を33文。英語→日本語→英語の順に流れます。
 
 641. She said the pawpaw cheesecake is the best she&#x27;d ever had. That&#x27;s high praise.　彼女はポポーチーズケーキが今まで食べた中で一番だと言っていました。すごい褒め言葉ですね。
@@ -1515,11 +1515,11 @@
 672. This might be the most Midwestern intersection.　ここは一番中西部らしい交差点かもね。
 673. Midwestern hospitality is a thing.　中西部のおもてなしっていうのもあるんだよ。
 
-読み上げ音声：Kokoro-82M（Apache-2.0）</itunes:summary>
-   <enclosure url="https://popomodao.github.io/popomodachi-english/ep09.m4a" length="3551714" type="audio/x-m4a"/>
-   <guid isPermaLink="false">popomodachi-english-ep09</guid>
+読み上げ音声：VOICEVOX:春日部つむぎ（日本語）／Kokoro-82M（英語・Apache-2.0）</itunes:summary>
+   <enclosure url="https://popomodao.github.io/popomodachi-english/ep09-5eda98ee.m4a" length="3323319" type="audio/x-m4a"/>
+   <guid isPermaLink="false">popomodachi-english-ep09-5eda98ee</guid>
    <pubDate>Thu, 05 Nov 2026 09:09:00 +0900</pubDate>
-   <itunes:duration>8:52</itunes:duration>
+   <itunes:duration>8:25</itunes:duration>
    <itunes:episode>9</itunes:episode>
    <itunes:episodeType>full</itunes:episodeType>
    <itunes:explicit>false</itunes:explicit>
